@@ -19,7 +19,8 @@ StreamFlix is a personal project intended for educational purposes and to demons
 
 <img width="1279" alt="image" src="https://github.com/user-attachments/assets/8d7a496d-cc13-4973-ba19-40b4e186bce4" />
 
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/548dd6d1-b69d-4f54-9ede-d94ad0a4d151" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/688e593f-1520-4508-aafe-cfb3243b779a" />
+
 
 
 
@@ -42,9 +43,8 @@ StreamFlix is a personal project intended for educational purposes and to demons
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/streamflix.git](https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME/streamflix.git)
+    git clone [https://github.com/TRIDENT11107/streamflix.git](https://www.google.com/search?q=https://github.com/TRIDENT11107/streamflix.git)
     ```
-    (Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)
 
 2.  Navigate to the project directory:
     ```bash
