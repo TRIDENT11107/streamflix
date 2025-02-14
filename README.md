@@ -12,7 +12,6 @@ This project is a Netflix clone called StreamFlix, built using HTML, CSS, and Ja
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
