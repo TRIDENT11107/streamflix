@@ -17,6 +17,12 @@ This project is a Netflix clone called StreamFlix, built using HTML, CSS, and Ja
 
 StreamFlix is a personal project intended for educational purposes and to demonstrate front-end development skills. It's not meant to be a production-ready application or a replacement for Netflix.  This project focuses on replicating the user interface and basic browsing functionality.
 
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/8d7a496d-cc13-4973-ba19-40b4e186bce4" />
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/548dd6d1-b69d-4f54-9ede-d94ad0a4d151" />
+
+
+
 ## Features
 
 *   **Responsive Design:** Adapts to different screen sizes for optimal viewing on desktops, tablets, and mobile devices.
